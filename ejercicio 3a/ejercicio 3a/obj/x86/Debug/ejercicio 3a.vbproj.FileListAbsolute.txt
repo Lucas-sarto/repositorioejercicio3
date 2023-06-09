@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\bin\Debug\ejercicio 3a.exe
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\bin\Debug\ejercicio 3a.pdb
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\bin\Debug\ejercicio 3a.xml
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\obj\x86\Debug\ejercicio_3a.Form1.resources
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\obj\x86\Debug\ejercicio_3a.Resources.resources
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\obj\x86\Debug\ejercicio 3a.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\obj\x86\Debug\ejercicio 3a.exe
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\obj\x86\Debug\ejercicio 3a.xml
+C:\Users\Lucas\Documents\Informatica\tp3\repositorio ejercico 3\repositorioejercicio3\ejercicio 3a\ejercicio 3a\obj\x86\Debug\ejercicio 3a.pdb

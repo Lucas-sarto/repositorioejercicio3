@@ -25,6 +25,7 @@ Partial Class Form1
         Me.cmdEjecutar = New System.Windows.Forms.Button()
         Me.lblMayor = New System.Windows.Forms.Label()
         Me.lblMenor = New System.Windows.Forms.Label()
+        Me.lblSuma = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'cmdEjecutar
@@ -54,11 +55,21 @@ Partial Class Form1
         Me.lblMenor.TabIndex = 2
         Me.lblMenor.Text = "Label2"
         '
+        'lblSuma
+        '
+        Me.lblSuma.AutoSize = True
+        Me.lblSuma.Location = New System.Drawing.Point(73, 152)
+        Me.lblSuma.Name = "lblSuma"
+        Me.lblSuma.Size = New System.Drawing.Size(39, 13)
+        Me.lblSuma.TabIndex = 3
+        Me.lblSuma.Text = "Label3"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(438, 292)
+        Me.Controls.Add(Me.lblSuma)
         Me.Controls.Add(Me.lblMenor)
         Me.Controls.Add(Me.lblMayor)
         Me.Controls.Add(Me.cmdEjecutar)
@@ -71,5 +82,6 @@ Partial Class Form1
     Friend WithEvents cmdEjecutar As System.Windows.Forms.Button
     Friend WithEvents lblMayor As System.Windows.Forms.Label
     Friend WithEvents lblMenor As System.Windows.Forms.Label
+    Friend WithEvents lblSuma As System.Windows.Forms.Label
 
 End Class
